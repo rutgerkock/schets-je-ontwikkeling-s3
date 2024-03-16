@@ -4,4 +4,4 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Schets je ontwikkeling - Seemster 3
 
-
+Maak een praatplaat over jouw ontwikkeling als frontender
