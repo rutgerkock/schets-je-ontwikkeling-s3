@@ -1,5 +1,5 @@
 
-# Choices, Choices - Schets je ontwikkeling
+# Schets je ontwikkeling - Semester 3
 
 Maak een praatplaat waarin je jouw ontwikkeling en waar je naartoe wil in jaar 2, laat zien.
 
