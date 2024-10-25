@@ -1,11 +1,19 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
-
 # Schets je ontwikkeling - Semester 3
+> Maak een praatplaat over jouw ontwikkeling als frontender
 
-Maak een praatplaat over jouw ontwikkeling als frontender
 
-## Licentie
+## Niet zo rechte weg naar een toffe baan
+> Een tekening van hoe ik mijn weg zie naar een baan als frontender, in Utrecht :D.
+<img width="1000" alt="Screenshot 2024-10-25 at 19 33 19" src="https://github.com/user-attachments/assets/0fab0284-4489-4877-814c-f19e9ad4d965">
 
-This project is licensed under the terms of the [MIT license](./LICENSE).
+## Ik over 1 jaar
+<img width="500" alt="Screenshot 2024-10-25 at 19 32 43" src="https://github.com/user-attachments/assets/6c94dab2-09ce-44bd-aec7-95ad0a90014f">
+
+### Tijdlijn
+Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, afstuderen) neerzet. Boven de tijdlijn welke tools en skills ik de komende tijd eigen wil maken en op welk moment. Onder de tijdlijn  welke houding-aspecten en soft skills ik nodig heb om dat te bereiken. 
+
+<img width="1000" alt="Screenshot 2024-10-25 at 19 32 57" src="https://github.com/user-attachments/assets/ea1a6e30-f0fc-4b51-8132-e9c8f6f5d17f">
+
+## Webdiagram
+<img width="1000" alt="Screenshot 2024-10-25 at 19 32 29" src="https://github.com/user-attachments/assets/e9109677-9449-4994-8b5b-b5ef1f2211a7">
+
