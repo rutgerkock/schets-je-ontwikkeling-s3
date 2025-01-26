@@ -17,3 +17,9 @@ Teken een tijdlijn waarop je de belangrijkste mijlpalen (stage, vrije ruimte, af
 ## Webdiagram
 <img width="1000" alt="Screenshot 2024-10-25 at 19 32 29" src="https://github.com/user-attachments/assets/e9109677-9449-4994-8b5b-b5ef1f2211a7">
 
+
+
+
+## Endterm S3
+> Hoe ik de weg zie naar een toffe baan, en wat ik de afgelopen tijd heb afgelegd.
+<img width="1033" alt="Screenshot 2025-01-26 at 17 45 20" src="https://github.com/user-attachments/assets/5101025f-6484-445b-870a-c2b8397e7e90" />
